@@ -1,0 +1,2 @@
+# FEC-ForestCoin-
+FEC(ForestCoin)
